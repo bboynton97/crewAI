@@ -1,3 +1,18 @@
+# ⚠️ NOTE: this is the AgentOps pre-release version of CrewAI
+This is not an official release of CrewAI and should only be used as a temporary library for integrating Crew with
+AgentOps until the official release is made. The PR for this release can be found [here](https://github.com/joaomdmoura/crewAI/pull/411).
+
+When the official release is merged, this fork will be deprecated and developers will be instructed to install CrewAI
+directly.
+
+## Install:
+
+`pip install git+git@github.com:bboynton97/crewAI.git@prerelease`
+
+------
+
+
+
 <div align="center">
 
 ![Logo of crewAI, two people rowing on a boat](./docs/crewai_logo.png)
