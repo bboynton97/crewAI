@@ -7,7 +7,7 @@ directly.
 
 ## Install:
 
-`pip install git+git@github.com:bboynton97/crewAI.git@prerelease`
+`pip install git+https://github.com/bboynton97/crewAI.git@prerelease`
 
 ------
 
